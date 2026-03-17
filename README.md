@@ -13,11 +13,27 @@ Sou entusiasta de **DevSecOps, IaC e automação** para evolução contínua da 
 
 ---
 
+## 🔎 SRE & Observabilidade
+- Definição e acompanhamento de **SLIs/SLOs** e **Error Budgets**  
+- Automação de incidentes críticos para reduzir MTTR  
+- Redução de "toil" e aumento da confiabilidade operacional  
+- Implementação de monitoramento avançado com:  
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-FF0000?style=for-the-badge&logo=zabbix&logoColor=white)
+
+---
+
 ## 🛠️ Tecnologias & Ferramentas
-- ☁️ **Cloud:** Azure, AWS, Oracle Cloud (OCI)  
-- 🔒 **Segurança:** IAM, WAF, NSG, Cloud Trail, Sentinel, GuardDuty  
-- ⚙️ **DevOps/SRE:** Terraform, Ansible, Kubernetes (AKS/EKS), CI/CD, Prometheus, Grafana  
-- 📊 **Gestão:** ITIL, Agile, Liderança de Times Técnicos  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![OCI](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
